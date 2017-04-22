@@ -1,0 +1,10 @@
+a,b,c=map(int,input().split())
+spam=[a,b,c]
+spam.sort()
+print(spam[0])
+print(spam[1])
+print(spam[2])
+print()
+print(a)
+print(b)
+print(c)
